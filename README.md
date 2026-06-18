@@ -40,7 +40,7 @@ I'm a passionate Full-Stack Developer with a focus on building dynamic, responsi
   <p align="left">
     <a href="https://www.linkedin.com/in/md-misskhat-hossen" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="35" width="45" /></a>
     <a href="https://discord.com" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="discord" height="35" width="45" /></a>
-    <a href="https://www.facebook.com/mishkathossain.milon" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" alt="facebook" height="35" width="45" /></a>
+    <a href="https://www.facebook.com/mishkathossain.milon" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="facebook" height="35" width="45" /></a>
   </p>
 </div>
 
@@ -76,7 +76,6 @@ I'm a passionate Full-Stack Developer with a focus on building dynamic, responsi
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### Contribution Activity
-<!-- Replace with your own activity graph if you have a different setup -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Misskhat&theme=react-dark" alt="GitHub Activity Graph" />
 
 ### GitHub Statistics
@@ -85,11 +84,10 @@ I'm a passionate Full-Stack Developer with a focus on building dynamic, responsi
 | :---: | :---: |
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Misskhat&show_icons=true&theme=default" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misskhat&layout=compact&theme=default" alt="Top Languages" /> |
 
-### Repository Contributions & Streak
-
-| 📈 Contributor Stats | 🔥 Current Streak |
-| :---: | :---: |
-| <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Misskhat&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" alt="Contributor Stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Misskhat" alt="GitHub Streak" /> |
+### 🔥 Current Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Misskhat" alt="GitHub Streak" />
+</p>
 
 <br/>
 
