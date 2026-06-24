@@ -27,7 +27,7 @@ I'm a passionate Full-Stack Developer with a focus on building dynamic, responsi
 - 🗄️ **Backend:** Node.js, Express.js, MongoDB, Mongoose
 - 📚 **Currently learning:** Nest.js, PostgreSQL, Supabase
 - 💬 Ask me about full-stack development, modern JavaScript frameworks, or database design.
-- 🌐 Explore my **[Portfolio](https://mishkat-hossen-portfolio.vercel.app)** or view my **[Resume](https://mishkat-hossen-portfolio.vercel.app)**.
+- 🌐 Explore my **[Portfolio](https://mishkat-hossen-portfolio.vercel.app)** or view my **[Resume](https://drive.google.com/file/d/1gBw1ZHVjItdu_0-LPACJN14jVcdONddz/view?usp=sharing)**.
 - ✍️ I occasionally write articles on [LinkedIn](https://www.linkedin.com/in/md-misskhat-hossen).
 - 📫 Reach me at **[misskhat.hossen@gmail.com](mailto:misskhat.hossen@gmail.com)**.
 
